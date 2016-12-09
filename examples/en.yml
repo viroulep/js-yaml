@@ -1,0 +1,26 @@
+# Coucou
+#! comment on root
+en:
+#! titi
+#! toto
+  contries:
+    XA: "Multiple Countries (Asia)"
+    XE: "Multiple Countries (Europe)"
+    XS: "Multiple Countries (South America)"
+      #! ocmment on subpart
+    subpart:
+      key1: "hihi"
+  #! ahah !
+  some:
+    key2: "haha"
+    MO: "Macao"
+    HK: "Hong Kong"
+    KR: "Korea"
+  #! blah
+  continents:
+    AfR: "Africa"
+    AsR: "Asia"
+    ER: "Europe"
+    NAR: "North America"
+    OcR: "Oceania"
+    SAR: "South America"
